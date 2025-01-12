@@ -2,7 +2,7 @@
 Unified Intelligent X-AI Reasoning and SNOMED-CT Attribution</h4>
 The increasing impact of carbon emissions from automobiles
 on public health and climate necessitates accessible tools to
-inform individuals and policymakers. This paper introduces
+inform individuals and policymakers. This research project introduces
 an AI-driven system called NEXUS that predicts tailpipe
 emissions using carbon emission data from various cars and
 contextualizes these predictions within the appropriate regulatory
